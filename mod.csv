@@ -1,0 +1,13 @@
+//GENRAL
+rawfile,maps/_zombiemode_weapons.gsc
+
+//KINO
+rawfile,maps/zombie_theater.gsc
+
+//WEAPONS
+weapon,sp/m16_zm
+weapon,sp/m16_upgraded_zm
+
+//XMODLES
+xmodel,t5_weapon_M16A1_world
+xmodel,t5_weapon_viewmodel_M16A1
